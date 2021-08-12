@@ -1,2 +1,3 @@
-# hello-world
-New repository for learning how to work in Github
+Hi there, 
+
+I am Rein and I am new in Github
